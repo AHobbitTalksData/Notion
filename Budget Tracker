@@ -3,3 +3,8 @@ The Budget Tracker I created can be found here:  https://bolder-opinion-89a.noti
 In the Categories table there is a column called "Colones", followed by "Monthly Budget". Monthly Budget actually is a cell that contains a formula to get
 from Colones to USD dollars. The currency is always changing, but for this case, the currerncy I chose is 1 USD dollar is equal to 550 Colones. This is particularly
 useful because colones is the currency used in my country, Costa Rica.  
+
+In this tracker, you have 2 tables: Categories and Expenses. Both of this tables are connected. What the user has to do is to enter the details for the expense, such as Name,
+Date, Notes and Category. The Category will be chosen from the table above. 
+
+The user will be able to see the total amount spent per month and how much is left remaining from their budget. 

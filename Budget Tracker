@@ -1,0 +1,3 @@
+The Budget Tracker I created can be found here:  https://bolder-opinion-89a.notion.site/Budget-Tracker-e8842115d78b4f0b829711d8d80ba4d0.
+
+In the Categories table there is a column called "Colones", followed by "Monthly Budget". Monthly Budget actually is a cell that contains a formula to get from Colones to USD dollars. The currency is always changing, but for this case, the currerncy I chose is 1 USD dollar is equal to 550 Colones. This is particularly useful because colones is the currency used in my country, Costa Rica.  

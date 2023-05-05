@@ -7,6 +7,6 @@ useful because colones is the currency used in my country, Costa Rica.
 In this tracker, you have 2 tables: Categories and Expenses. Both of this tables are connected. What the user has to do is to enter the details for the expense, such as Name,
 Date, Notes and Category. The Category will be chosen from the table above. 
 
-The user will be able to see the total amount spent per month and how much is left remaining from their budget. I still need to update few parts.
+The user will be able to see the total amount spent per month and how much is left remaining from their budget. I still need to update a few parts.
 
 I you would like to use it, feel free to open the link and click on *Duplicate*. It will save a copy that you will be able to customize. 
